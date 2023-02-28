@@ -12,14 +12,23 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 # Minhas Tabelas no MYSQL
  Tabela cursos:
+ 
 ![Cursos](https://user-images.githubusercontent.com/112709989/213272571-45f9a84f-1469-4f13-8550-1c334c79e50c.png)
+
  Tabela alunos:
+ 
 ![alunos](https://user-images.githubusercontent.com/112709989/213272596-b98bb163-c6e5-40e4-9772-8bfeeef06802.png)
- Tabela turmas:
+
+Tabela turmas:
+
 ![Turmas](https://user-images.githubusercontent.com/112709989/213272633-d734c7bb-1849-45c4-a489-f291e467b4c8.png)
- Tabela professores:
+
+Tabela professores:
+
 ![Professores](https://user-images.githubusercontent.com/112709989/213272649-7c1cc884-edf6-4a19-82dc-0db668f1c51b.png)
- Tabela curso_aluno:
+
+Tabela curso_aluno:
+
 ![curso_aluno](https://user-images.githubusercontent.com/112709989/213272667-102a0403-c45e-4ec7-9388-a9caddbf1a4b.png)
 
 
